@@ -1,0 +1,7 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "GIS";
+
+CFBundleShortVersionString = "GIS version 2.1.0.13828";
+CFBundleGetInfoString = "GIS version 2.1.0.13828, Copyright 2004-2009 Linden Research, Inc.";
+
