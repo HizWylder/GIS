@@ -1,3 +1,5 @@
+###### install manual for first time compile user ##########
+reference url
 http://wiki.phoenixviewer.com/doku.php?id=fs_compiling_firestorm_32bit_ubuntu#fmod_using_autobuild
 
 /** install autobuild  */
