@@ -45,7 +45,7 @@
 		</panel>
 		<panel label="Создатели" name="credits_panel">
 			<text name="linden_intro">
-				Игра GIS разработана лабораторией Lindens:
+				Игра GIS разработана лабораторией Hiz:
 			</text>
 			<text name="contrib_intro">
 				в написании открытого кода участвовали:

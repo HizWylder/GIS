@@ -46,7 +46,7 @@ Ses Sunucusu Sürümü: [VOICE_VERSION]
 		</panel>
 		<panel label="Katkıda Bulunanlar" name="credits_panel">
 			<text name="linden_intro">
-				GIS, Linden&apos;lar tarafından geliştirilmiştir:
+				GIS,Hiz:&apos;lar tarafından geliştirilmiştir:
 			</text>
 			<text name="contrib_intro">
 				Açık kaynak kod katkısında bulunanlar:

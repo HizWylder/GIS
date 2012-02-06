@@ -43,7 +43,7 @@ Qt Webkit 版本： [QT_WEBKIT_VERSION]
 		</panel>
 		<panel label="Credits" name="credits_panel">
 			<text_editor name="credits_editor">
-				GIS is brought to you by ..., and many others.
+				GIS is brought to you by Hiz and many others.
 
 Thank you to the following Residents for helping to ensure that this is the best version yet: ..., and many others.
 
